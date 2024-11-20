@@ -5,6 +5,8 @@
 ![Size](https://img.shields.io/badge/Size-1Mo-f12222)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
+<br/>
+
 The **Chess games dataset** is a collection of high level chess games for training machine learning models. The dataset is also available on [**Hugging Face 🤗**](https://huggingface.co/datasets/angeluriot/chess_games).
 
 <p align="center">
