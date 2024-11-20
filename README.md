@@ -38,17 +38,23 @@ The dataset is composed of 14M chess games from high level players for a total o
 	<img src="resources/misc/dates.png" width="575">
 </p>
 
+<br/>
+
 The mean ELO of the players is 2388:
 
 <p align="center">
 	<img src="resources/misc/elos.png" width="575">
 </p>
 
+<br/>
+
 The mean number of moves per game is 84 (with a maximum of 692 moves):
 
 <p align="center">
 	<img src="resources/misc/moves.png" width="575">
 </p>
+
+<br/>
 
 Most of the games were ended by a resignation or a draw agreement:
 
