@@ -9,6 +9,8 @@
 
 The **Chess games dataset** is a collection of high level chess games for training machine learning models. The dataset is also available on [**Hugging Face 🤗**](https://huggingface.co/datasets/angeluriot/chess_games).
 
+<br/>
+
 <p align="center">
 	<img src="resources/misc/thumbnail.png" width="750">
 </p>
