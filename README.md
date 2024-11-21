@@ -2,7 +2,7 @@
 
 ![Release](https://img.shields.io/badge/Release-v1.0-blueviolet)
 ![Format](https://img.shields.io/badge/Format-Parquet-ffcc14)
-![Size](https://img.shields.io/badge/Size-1Mo-f12222)
+![Size](https://img.shields.io/badge/Size-7.31Go-f12222)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 <br/>
